@@ -1,0 +1,5 @@
+{
+  "name": "Dog Walk Tracker",
+  "description": "A simple and beautiful web application for Anu and Aaku to keep track of who takes their dog Auri for morning and evening walks. The data is saved locally in your browser.",
+  "requestFramePermissions": []
+}
